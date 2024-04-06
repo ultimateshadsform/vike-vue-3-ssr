@@ -10,7 +10,6 @@
   "dependencies": {
     "@vue/compiler-sfc": "^3.3.10",
     "@vue/server-renderer": "^3.3.10",
-    "compression": "^1.7.4",
     "hono": "^4.2.2",
     "node-fetch": "^3.3.2",
     "typescript": "^5.3.3",
