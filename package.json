@@ -8,23 +8,22 @@
     "server:prod": "cross-env NODE_ENV=production bun server"
   },
   "dependencies": {
-    "@types/node": "^20.10.4",
-    "@vitejs/plugin-vue": "^5.0.0",
     "@vue/compiler-sfc": "^3.3.10",
     "@vue/server-renderer": "^3.3.10",
     "compression": "^1.7.4",
-    "cross-env": "^7.0.3",
     "hono": "^4.2.2",
     "node-fetch": "^3.3.2",
-    "sirv": "^2.0.3",
-    "ts-node": "^10.9.1",
     "typescript": "^5.3.3",
     "vike": "^0.4.168",
-    "vite": "^5.0.10",
     "vue": "^3.3.10"
   },
   "type": "module",
   "devDependencies": {
-    "@hono/vite-dev-server": "^0.10.0"
+    "@hono/vite-dev-server": "^0.10.0",
+    "@types/node": "^20.10.4",
+    "vite": "^5.0.10",
+    "cross-env": "^7.0.3",
+    "ts-node": "^10.9.1",
+    "@vitejs/plugin-vue": "^5.0.0"
   }
 }
