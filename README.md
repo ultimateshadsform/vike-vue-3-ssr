@@ -8,11 +8,11 @@ To start the development server, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ultimateshadsform/vike-vue-3-ssr-app.git
+   git clone https://github.com/ultimateshadsform/vike-vue-3-ssr.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd vike-vue-3-ssr-app
+   cd vike-vue-3-ssr
    ```
 3. Install dependencies:
    ```bash
